@@ -1,5 +1,5 @@
 <a href="http://www.isfahanlug.org/doku.php">
-	<img src="images/lugs/isflug.jpg" class="photo" />
+	<img src="images/lugs/isflug.jpg" class="photo" alt="" />
 </a>
 
 <a href="http://guilug.org/">
@@ -11,7 +11,7 @@
 </a>
 
 <a href="http://yazdlug.org/index.php?option=com_frontpage&Itemid=28">
-	<img src="images/lugs/yazdlug.jpg" class="photo" />
+	<img src="images/lugs/yazdlug.jpg" class="photo" alt="گروه کاربران گنو/لینوکس یزد" />
 </a>
 
 <a href="http://www.mashhadlug.org/">
